@@ -1,4 +1,4 @@
-#### SC: German Language Tournament for Mania
+# SC: German Language Tournament for Mania
 
 [Banner]
 
@@ -10,7 +10,7 @@ This competition has not yet come to an end so we will update it as soon as the 
 
 
 
-### Tournament Schedule
+## Tournament Schedule
 
 | Event              	| Timestamp        	|
 |--------------------	|------------------	|
@@ -21,7 +21,7 @@ This competition has not yet come to an end so we will update it as soon as the 
 | Semi-finals        	| 21-23 Jul 2017   	|
 | Finals             	| 28-30 Jul 2017   	|
 
-### Organization Team
+## Organization Team
 
 | Job                   	| Person(s)                                                                              	|
 |-----------------------	|----------------------------------------------------------------------------------------	|
@@ -31,54 +31,54 @@ This competition has not yet come to an end so we will update it as soon as the 
 | Referee               	| _Easy_, Hydrano, Nuggel, Felhantin, Heam, car0line96                                   	|
 | Streamer/Commentators 	| JanteSmith, DerKuro, Nuggel, rohen04, LordTimeWaste, ReTLoM, Xerxe, salkin, Minegamezz 	|
 
-### Participants
+## Participants
 
-## 4K Bracket
+### 4K Bracket
 
-##7K Bracket
+### 7K Bracket
 
-### Mappools
+## Mappools
 
-## 4K Mappool
+### 4K Mappool
 
-# Finals
+### Finals
 
-# Semi=finals
+### Semi=finals
 
-# Quarter=finals
+### Quarter=finals
 
-# Round of 16
+### Round of 16
 
-## 7K Mappool
+### 7K Mappool
 
-# Finals
+#### Finals
 
-# Semi=finals
+#### Semi=finals
 
-# Quarter=finals
+#### Quarter=finals
 
-# Round of 16
+#### Round of 16
 
-### Match Results
+## Match Results
 
-## 4K
+### 4K
 
-# Finals
+#### Finals
 
-# Semi=finals
+#### Semi=finals
 
-# Quarter=finals
+#### Quarter=finals
 
-# Round of 16
+#### Round of 16
 
-## 7K
+### 7K
 
-# Finals
+#### Finals
 
-# Semi=finals
+#### Semi=finals
 
-# Quarter=finals
+#### Quarter=finals
 
-# Round of 16
+#### Round of 16
 
-### Rules
+## Rules
