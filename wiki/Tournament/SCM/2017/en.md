@@ -35,7 +35,17 @@ This competition has not yet come to an end so we will update it as soon as the 
 
 ### 4K Bracket
 
+| Country | Members |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Germany](/wiki/shared/flag/De.gif) Germany | [LastExceed](https://osu.ppy.sh/users/6232245 "LastExceed"), [-Dom-](https://osu.ppy.sh/users/5587671"-Dom-"), [Jeremayer](https://osu.ppy.sh/users/7475496"Jeremayer"), [Nediz](https://osu.ppy.sh/users/7009106"Nediz"), [Malox](https://osu.ppy.sh/users/4516252"Malox"), [StanleyS](https://osu.ppy.sh/users/7810871"StanleyS"), [LordTimeWaste](https://osu.ppy.sh/users/4105747"LordTimeWaste"), [\[Yukki\]](https://osu.ppy.sh/users/8452302"\[Yukki\]"), [Zaibon](https://osu.ppy.sh/users/4799013"Zaibon"), [Ntysy](https://osu.ppy.sh/users/1705371"Ntysy"), [Kaionacho](https://osu.ppy.sh/users/4680653"Kaionacho"), [\_Skipper\_](https://osu.ppy.sh/users/7133829"\_Skipper\_") |
+| ![Austria](/wiki/shared/flag/At.gif) Austria | [Klasic](https://osu.ppy.sh/users/7189687"Klasic"), [LightningSM](https://osu.ppy.sh/users/8969336"LightningSM"), [ClarissaAWE](https://osu.ppy.sh/users/7782025"ClarissaAWE"), [eZxSocky](https://osu.ppy.sh/users/7267205"eZxSocky")  |
+
 ### 7K Bracket
+
+| Country | Members |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Germany](/wiki/shared/flag/De.gif) Germany | [rohen04](https://osu.ppy.sh/users/369614"rohen04"), [LastExceed](https://osu.ppy.sh/users/6232245 "LastExceed"), [Nediz](https://osu.ppy.sh/users/7009106"Nediz"), [Malox](https://osu.ppy.sh/users/4516252"Malox"), [LordTimeWaste](https://osu.ppy.sh/users/4105747"LordTimeWaste"), [ReTLoM](https://osu.ppy.sh/users/2271049"ReTLoM"), [leaver1](https://osu.ppy.sh/users/1545078"leaver1"), [DarkBeany](https://osu.ppy.sh/users/5225121"DarkBeany"), [Tsuya04](https://osu.ppy.sh/users/3932938"Tsuya04"), [\_Skipper\_](https://osu.ppy.sh/users/7133829"_Skipper_") |
+| ![Austria](/wiki/shared/flag/At.gif) Austria | [Veracion](https://osu.ppy.sh/users/5812569"Veracion"), [Amane](https://osu.ppy.sh/users/6821436"Amane")  |
 
 ## Mappools
 
